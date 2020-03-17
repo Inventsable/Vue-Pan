@@ -1,6 +1,6 @@
 # vue-pan
 
-Isolated version of [Quasar's](https://github.com/quasarframework/quasar) `v-pan` directive.
+Isolated version of [Quasar's](https://github.com/quasarframework/quasar) `v-touch-pan` directive. No dependencies, no need for entirety of Quasar framework.
 
 ## [See demo and API from Quasar docs](https://quasar.dev/vue-directives/touch-pan)
 
