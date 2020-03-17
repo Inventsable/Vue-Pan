@@ -2,6 +2,8 @@
 
 Isolated version of [Quasar's](https://github.com/quasarframework/quasar) `v-pan` directive.
 
+## [See demo and API from Quasar docs](https://quasar.dev/vue-directives/touch-pan)
+
 ### Installation
 
 ```bash
@@ -20,7 +22,6 @@ Load directive locally:
 ```
 
 Load directive globally:
-
 
 ```js
 // in main.js
